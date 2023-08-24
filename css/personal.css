@@ -3,8 +3,9 @@
 }
 .personal-info img {
   height: 340px;
-  width: 320px;
+  width: 310px;
   border-radius: 10px;
+  object-fit: cover;
 }
 .pernifon {
   text-align: center;
